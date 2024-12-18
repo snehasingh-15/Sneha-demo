@@ -1,3 +1,4 @@
 # Sneha-demo
-First git repository
-author- Sneha Singh
+First git repository.
+<br>
+Author- Sneha Singh
